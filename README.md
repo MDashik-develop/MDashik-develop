@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  Hello, I'm MD Abdulla Jobayer! Nice to meet you!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  Hello, I'm Md. Ashikur Rahman! Nice to meet you!
 
 ### Software Developer
 
@@ -23,18 +23,17 @@ My primary stack is centered around a modern **Laravel (PHP) backend** coupled w
 
 I have solid experience managing the environments essential for deployment and development, specializing in the classic and robust **LAMP stack**.
 
-### Development & DevOps Tools
-* **Full LAMP Stack** (Linux, Apache, MySQL, PHP) Setup and Maintenance.
-* **Docker** for consistent, containerized development.
+### Development 
+* **Full LAMP Stack** ( Apache, MySQL, PHP) Setup and Maintenance.
 * **Git** & **GitHub** for version control and collaborative workflows.
 * **Postman** for API testing and documentation etc.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LAMP_Stack-FF9900?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <!-- <img src="https://img.shields.io/badge/LAMP_Stack-FF9900?style=for-the-badge&logo=apache&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/Linux_Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> -->
 </p>
 
 ### Database Management
