@@ -100,6 +100,6 @@ I prioritize writing **clean, scalable, and secure code** following industry bes
  </table>
  -->
 ### 📞 **Contact Me:**
-- **Email:** [mdabdullajovayer@gmail.com](mailto:mdabdullajovayer@gmail.com)
-- **LinkedIn:** [mdabdullahjobayer](https://www.linkedin.com/in/mdabdullahjobayer)
+- **Email:** [mdashik.official.mail@gmail.com](mailto:mdashik.official.mail@gmail.com)
+- **LinkedIn:** [mdashik-develop](https://www.linkedin.com/in/mdashik-develop/)
 - **Location:** Dhaka, Bangladesh
