@@ -76,7 +76,7 @@ I prioritize writing **clean, scalable, and secure code** following industry bes
 * ✅ Full Responsive UI with **Tailwind CSS || Boostrap** & **React Components**.
 
 ---
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<!-- <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdullajobayer&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdullajobayer" /> </p>
 
@@ -98,7 +98,7 @@ I prioritize writing **clean, scalable, and secure code** following industry bes
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdabdullajobayer&theme=github_dark" alt="Zane's GitHub Stats"/></td>
     </tr>
  </table>
-
+ -->
 ### 📞 **Contact Me:**
 - **Email:** [mdabdullajovayer@gmail.com](mailto:mdabdullajovayer@gmail.com)
 - **LinkedIn:** [mdabdullahjobayer](https://www.linkedin.com/in/mdabdullahjobayer)
