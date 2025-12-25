@@ -69,7 +69,7 @@ I prioritize writing **clean, scalable, and secure code** following industry bes
 
 ## ✨ Core Development Expertise
 
-* ✅ Expertise in **Linux, Apache, MySQL, PHP (LAMP)** stack for robust web solutions.
+* ✅ Expertise in **Apache, MySQL, PHP (LAMP)** stack for robust web solutions.
 * ✅ Custom **CRM & ERP** Application Development.
 * ✅ **API-Driven Development**.
 * ✅ Clean, Scalable **Repository Pattern** Architecture.
